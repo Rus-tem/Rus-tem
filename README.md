@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Rustem
+I'm Java developer 
 <!--
 **Rus-tem/Rus-tem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
