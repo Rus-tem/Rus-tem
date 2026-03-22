@@ -1,11 +1,18 @@
 ## Hi there 👋 I'm Rustem
-I'm Java developer 
+I'm Java developer earning and applying modern technologies to build REST APIs and server-side applications.
 
-### 🚀 About Me
+🛠 My Stack
+- Language: Java
+- Backend: REST API, Spring 
+- Databases: PostgreSQL / MySQL
+- Tools: Docker, Git, Maven
+- Other: JSON, HTTP, GitHub
+
+<!-- ### 🚀 About Me
 - 💻 Пишу на Java
 - 🌐 Разрабатываю REST API
 - 🐳 Использую Docker для контейнеризации
-- 📚 Постоянно изучаю backend-разработку и улучшаю навыки
+- 📚 Постоянно изучаю backend-разработку и улучшаю навыки -->
 
 
 <!--
