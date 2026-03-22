@@ -1,7 +1,7 @@
-## Hi there 👋 I'm Rustem
-I'm Java developer earning and applying modern technologies to build REST APIs and server-side applications.
+### Hi there 👋 I'm Rustem
+I am a Java Developer passionate about leveraging modern technologies to build scalable REST APIs and server-side applications.
 
-🛠 My Stack
+#### 🛠 My Stack
 - Language: Java
 - Backend: REST API, Spring 
 - Databases: PostgreSQL / MySQL
