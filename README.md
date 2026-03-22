@@ -1,5 +1,13 @@
 ## Hi there 👋 I'm Rustem
 I'm Java developer 
+
+### 🚀 About Me
+💻 Пишу на Java
+🌐 Разрабатываю REST API
+🐳 Использую Docker для контейнеризации
+📚 Постоянно изучаю backend-разработку и улучшаю навыки
+
+
 <!--
 **Rus-tem/Rus-tem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
